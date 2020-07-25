@@ -1,0 +1,3 @@
+.globl myfunc
+myfunc:
+    retl
